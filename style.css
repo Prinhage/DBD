@@ -43,7 +43,7 @@ body {
     height: 10px;
     color: rgb(218, 218, 218);
     margin-left: 43%;
-    margin-top: 30%;
+    margin-top: 20%;
     display: inline;
 }
 .box2 {
@@ -77,4 +77,11 @@ body {
 }
 .pegi16 {
     width: 50px;
+}
+.katil-esyalari {
+    width: 32%;
+    box-sizing: border-box;
+    margin-left: 100px;
+    margin-top: 6%;
+    display: inline;
 }
