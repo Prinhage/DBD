@@ -283,3 +283,204 @@ e
     border-radius: 20px;
     font-family: 'Permanent Marker', cursive;
 }
+.shape-y {
+    color: aliceblue;
+    font-size: 15px;
+    margin-left: 95px;
+    font-family: 'Permanent Marker', cursive;
+}
+.shape {
+    width: 15%;
+    margin-left: 30px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px -7px black;
+    margin-top: -200px;
+}
+.hag-y {
+    color: aliceblue;
+    font-size: 15px;
+    margin-left: 293px;
+    font-family: 'Permanent Marker', cursive;
+}
+.hag {
+    width: 15%;
+    margin-left: 220px;
+    margin-top: -300px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px -7px black;
+}
+.huntress-y {
+    color: aliceblue;
+    font-size: 15px;
+    margin-left: 465px;
+    font-family: 'Permanent Marker', cursive;
+}
+.huntress {
+    width: 15%;
+    margin-left: 410px;
+    margin-top: -300px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px -7px black;
+}
+.cannibal-y {
+    color: aliceblue;
+    font-size: 15px;
+    margin-left: 620px;
+    padding: 0px 37px;
+    font-family: 'Permanent Marker', cursive;
+}
+.cannibal {
+    width: 15%;
+    margin-left: 600px;
+    margin-top: -550px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px -7px black;
+}
+.clown-y{
+    color: aliceblue;
+    font-size: 15px;
+    margin-left: 820px;
+    padding: 0px 37px;
+    font-family: 'Permanent Marker', cursive;
+}
+.clown {
+    width: 15%;
+    margin-left: 790px;
+    margin-top: -550px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px -7px black;
+}
+.ghost-face-y {
+    color: aliceblue;
+    font-size: 15px;
+    margin-left: 990px;
+    padding: 0px 37px;
+    font-family: 'Permanent Marker', cursive;
+}
+.ghost-face {
+    width: 15%;
+    margin-left: 980px;
+    margin-top: -550px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px -7px black;
+} 
+.demogorgon-y {
+    color: aliceblue;
+    font-size: 15px;
+    margin-left: 75px;
+    font-family: 'Permanent Marker', cursive;
+}
+.demogorgon {
+    width: 15%;
+    margin-left: 30px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px -7px black;
+    margin-top: -200px;
+}
+.oni-y {
+    color: aliceblue;
+    font-size: 15px;
+    margin-left: 295px;
+    font-family: 'Permanent Marker', cursive;
+}
+.oni {
+    width: 15%;
+    margin-left: 220px;
+    margin-top: -300px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px -7px black;
+}
+.deathslinger-y {
+    color: aliceblue;
+    font-size: 15px;
+    margin-left: 453px;
+    font-family: 'Permanent Marker', cursive;
+}
+.deathslinger {
+    width: 15%;
+    margin-left: 410px;
+    margin-top: -300px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px -7px black;
+}
+.executioner-y {
+    color: aliceblue;
+    font-size: 15px;
+    margin-left: 610px;
+    padding: 0px 37px;
+    font-family: 'Permanent Marker', cursive;
+}
+.executioner {
+    width: 15%;
+    margin-left: 600px;
+    margin-top: -550px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px -7px black; 
+}
+.blight-y {
+    color: aliceblue;
+    font-size: 15px;
+    margin-left: 820px;
+    padding: 0px 37px;
+    font-family: 'Permanent Marker', cursive;
+}
+.blight {
+    width: 15%;
+    margin-left: 790px;
+    margin-top: -550px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px -7px black;
+}
+.twins-y {
+    color: aliceblue;
+    font-size: 15px;
+    margin-left: 1010px;
+    padding: 0px 37px;
+    font-family: 'Permanent Marker', cursive;
+}
+.twins {
+    width: 15%;
+    margin-left: 980px;
+    margin-top: -550px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px -7px black;
+}
+.nemesis-y {
+    color: aliceblue;
+    font-size: 15px;
+    margin-left: 90px;
+    font-family: 'Permanent Marker', cursive;
+}
+.nemesis {
+    width: 15%;
+    margin-left: 30px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px -7px black;
+    margin-top: -200px;
+}
+.artist-y {
+    color: aliceblue;
+    font-size: 15px;
+    margin-left: 285px;
+    font-family: 'Permanent Marker', cursive;
+}
+.artist {
+    width: 15%;
+    margin-left: 220px;
+    margin-top: -300px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px -7px black; 
+}
+.onryo-y {
+    color: aliceblue;
+    font-size: 15px;
+    margin-left: 476px;
+    font-family: 'Permanent Marker', cursive;
+}
+.onryo {
+    width: 15%;
+    margin-left: 410px;
+    margin-top: -300px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px -7px black;
+}
