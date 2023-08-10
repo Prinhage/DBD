@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Rubik+Wet+Paint&display=swap');
+* {
+    margin: 0;
+    pad: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(15, 15, 15);
+}
+.header {
+    background-color: firebrick;
+    padding: 10px;
+    box-shadow: 0px 8px 10px -5px maroon;
+    width: 100%;
+}
+.nav {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin-left: 7px;
+    font-size: 15px;
+    box-shadow: 0px 8px 10px -7px black;
+}
+.nav:hover {
+    text-decoration: underline;
+    font-size: 19px;
+    color: rgb(92, 0, 0);
+    transition: all 0.2s;
+}
+.katil-esyalarii {
+    color: white;
+    width: 32%;
+    background-color: rgb(15, 15, 15);
+    display: inline;
+    height: 100%;
+    margin-left: 320px;
+    box-shadow: 0px 8px 10px -7px black;
+    margin-top: 20px;
+}
+.h2-baslik {
+    width: 50%;
+    color: rgb(216, 216, 216);
+    height: 50%;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Rubik Wet Paint', cursive;
+    margin: 20px 70% ;
+    font-size: 40px;
+    width: 50%;
+    color: rgb(201, 69, 69);
+}
+.trapper-story {
+    color: rgb(146, 146, 146);
+    background-color: rgb(11, 11, 11);
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    width: 40%;
+    margin-left: 57%;
+    margin-top: 30px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px -7px black;
+    font-family: 'Permanent Marker', cursive;
+}
+.trapper-select {
+    width: 50%;
+    border: 5px solid black;
+    border-radius: 30px;
+    box-shadow: 0px 10px 10px -7px black;
+    display: inline;
+    margin-top: -555px;
+    margin-left: 30px;
+    display: block;
+}
+.h3-bilgi {
+    width: 50%;
+    color: rgb(236, 111, 111);
+    height: 50%;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Rubik Wet Paint', cursive;
+    margin-top: 20px;
+    font-size: 40px;
+    margin-left: 150px;
+}
+.trapper-bilgi {
+    color: rgb(104, 104, 104);
+    background-color: rgb(11, 11, 11);
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    width: 50%;
+    margin-left: 30px;
+    margin-top: px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px -7px black;
+    font-family: 'Permanent Marker', cursive;
+}
+.h4-oynaniş-basligi {
+    width: 50%;
+    color: rgb(201, 69, 69);
+    height: 50%;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Rubik Wet Paint', cursive;
+    margin-left: 65%;
+    margin-top: -160px;
+    font-size: 40px;
+    display: block;
+}
+.h4-oynaniş-bilgisi {
+    color: rgb(104, 104, 104);
+    background-color: rgb(11, 11, 11);
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    width: 40%;
+    margin-left: 680px;
+    margin-top: px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px -7px black;
+    font-family: 'Permanent Marker', cursive;
+}
+.ulti {
+    width: 50%;
+    color: rgb(206, 193, 10);
+    height: 50%;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Rubik Wet Paint', cursive;
+    margin-left: 190px;
+    margin-top: -140px;
+    font-size: 40px;
+    display: block;
+}
+.ulti-bilgisi {
+    color: rgb(104, 104, 104);
+    background-color: rgb(11, 11, 11);
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    width: 40%;
+    margin-left: 30px;
+    margin-top: px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px -7px black;
+    font-family: 'Permanent Marker', cursive;
+}
